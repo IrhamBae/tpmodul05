@@ -1,0 +1,15 @@
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\bin\Debug\net8.0\tpmodul05.exe
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\bin\Debug\net8.0\tpmodul05.deps.json
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\bin\Debug\net8.0\tpmodul05.runtimeconfig.json
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\bin\Debug\net8.0\tpmodul05.dll
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\bin\Debug\net8.0\tpmodul05.pdb
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.AssemblyInfoInputs.cache
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.AssemblyInfo.cs
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.csproj.CoreCompileInputs.cache
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.sourcelink.json
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.dll
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\refint\tpmodul05.dll
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.pdb
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\tpmodul05.genruntimeconfig.cache
+C:\Users\irham_nrphlax\Documents\Semester 4\PRAKTIKUM KONTRUKSI PERANGKAT LUNAK\code\tpmodul05\tpmodul05\tpmodul05\obj\Debug\net8.0\ref\tpmodul05.dll
