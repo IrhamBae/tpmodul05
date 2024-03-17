@@ -8,8 +8,6 @@ class HaloGeneric
     }
 }
 
-<<<<<<< HEAD
-=======
 public class DataGeneric<T>
 {
     public T Data { get; set; }
@@ -25,7 +23,6 @@ public class DataGeneric<T>
     }
 }
 
->>>>>>> generic-class
 class Program
 {
     static void Main(string[] args)
@@ -35,8 +32,6 @@ class Program
 
         HaloGeneric halo = new HaloGeneric();
         halo.SapaUser(namaPengguna);
-<<<<<<< HEAD
-=======
         Console.WriteLine();
 
         Console.WriteLine("Masukkan data:");
@@ -44,6 +39,5 @@ class Program
 
         DataGeneric<string> dataGeneric = new DataGeneric<string>(inputData);
         dataGeneric.PrintData();
->>>>>>> generic-class
     }
 }
